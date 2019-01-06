@@ -5,4 +5,7 @@
 
 1. 1000
 
-    function add(a,b) { return c=a+b; }
+This is a normal paragraph:
+
+    This is a code block.
+end code block.
