@@ -3,7 +3,7 @@
 
 >Dynamic Programming 
 
-- [x] >[Question-1463](https://www.acmicpc.net/problem/1463)
+- [x] [[Question-1463](https://www.acmicpc.net/problem/1463)]
 
 
 [solve](https://github.com/namelessing/hello-world/1463.cpp/)
