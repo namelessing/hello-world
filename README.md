@@ -3,9 +3,8 @@
 
 >Dynamic Programming 
 
-- [x] 
-[1463](https://github.com/namelessing/hello-world/1463.cpp “git”)
-- [x] 11726
+- [x] [1463](https://github.com/namelessing/hello-world/1463.cpp “git”)
+- [x] [바로가기](https://help.github.com/categories/writing-on-github/)
 - [x] 11727
 - [x] 9095
 - [x] 10844
