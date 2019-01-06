@@ -3,13 +3,13 @@
 
 >Dynamic Programming 
 
->1643 <https://google.com>
+- 1643 <https://google.com>
 
-*11726
+* 11726
 
-*11727
+* 11727
 
-*9095
+* 9095
 
-*10844,
+* 10844
 
