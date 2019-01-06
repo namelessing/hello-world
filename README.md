@@ -2,7 +2,7 @@
 
 
 >Dynamic Programming 
+
 1. 1000
 
-Link: [Google][googleLink]
-[googleLink]: https://google.com
+  function add(a,b) { return c=a+b; }
