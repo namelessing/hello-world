@@ -3,6 +3,12 @@
 
 >Dynamic Programming 
 
+- [ ] 1463
+- [x] 11726
+- [x] 11727
+- [x] 9095
+- [x] 10844
+
 + 1643 
   + [Link to a file](hello-world/1463)
 
