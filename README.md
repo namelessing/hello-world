@@ -4,7 +4,7 @@
 >Dynamic Programming 
 
 + 1643 
-  - <https://google.com>
+  + <https://google.com>
 
 * 11726
 
