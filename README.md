@@ -5,4 +5,4 @@
 1. 1000
 
 Link: [Google][googleLink]
-[googlelink]: https://google.com
+[googleLink]: https://google.com
